@@ -1,0 +1,6 @@
+Date Built: 2026-04-09T17:56:48.603Z
+    
+VERCEL_GIT_COMMIT_SHA: c390aeb9fa64a3759a32ab5079bbafa8374553b1
+VERCEL_GIT_COMMIT_MESSAGE: Merge pull request #3330 from MindsmithAI/xapi-refinements
+
+xAPI refinements
